@@ -1,0 +1,6 @@
+{
+  "name": "Web-Ardunity Dashboard",
+  "description": "A browser-based dashboard that features real-time, bi-directional control between a 3D virtual environment and physical Arduino hardware via Web Serial API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
